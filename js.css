@@ -118,7 +118,7 @@
   font-family: "Noto Sans KR", sans-serif;
   border-radius: 10px;  
   text-align: center; 
-  background: url('008.png');
+  background-image: url('008.png');  
   background-position: center;
   justify-self: center;  
   background-repeat: no-repeat;
@@ -160,7 +160,7 @@
   margin: auto;
   border-radius: 10px;  
   text-align: center; 
-  background: url('008.png');
+  background-image: url('008.png');
   background-position: center;
   background-repeat: no-repeat;
 }
@@ -189,7 +189,7 @@ p{
   margin: auto;
   border-radius: 10px;  
   text-align: center; 
-  background: url('008.png');  
+  background-image: url('008.png');  
   background-position: center;
   background-repeat: no-repeat;
   
